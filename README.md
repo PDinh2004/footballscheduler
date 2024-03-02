@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://gyazo.com/87d44d7846e2481b43bf0e35b7cf51a1"><img src="https://i.gyazo.com/87d44d7846e2481b43bf0e35b7cf51a1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.gyazo.com/87d44d7846e2481b43bf0e35b7cf51a1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gyazo 
