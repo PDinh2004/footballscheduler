@@ -1,0 +1,52 @@
+.Card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 48%;
+  background-color: #282c34;
+  color: white;
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+  padding-bottom: 5%;
+  margin-top: 5%;
+}
+
+.Card a {
+  color: rgb(75, 203, 246);
+  text-decoration: none;
+}
+
+.Card img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: rgb(23, 64, 23);
+}
+
+#nflLogo {
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between
+}
+
+.time {
+  height: 40px;
+}
